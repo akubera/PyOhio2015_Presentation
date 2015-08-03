@@ -1,0 +1,3 @@
+[submodule "asyncio_examples"]
+	path = asyncio_examples
+	url = https://github.com/akubera/asyncio_examples
